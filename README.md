@@ -1,7 +1,8 @@
 ### Welcome to yena'space✨
-😼I want to be a data scientist
-🙇🏻‍♀️I'm exploring machine learning and deep learning
-🦋It will be a difficult but romantic journey
+<p>💕I am a student of the University of Chinese Academy of Sciences</p>
+<p>😼I want to be a data scientist</p>
+<p>🙇🏻‍♀️I'm exploring machine learning and deep learning</p>
+<p>🦋It will be a difficult but romantic journey</p>
 
 <!--
 **helloyena/helloyena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
