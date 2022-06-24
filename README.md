@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to yena'space✨
+😼I want to be a data scientist
+🙇🏻‍♀️I'm exploring machine learning and deep learning
+🦋It will be a difficult but romantic journey
 
 <!--
 **helloyena/helloyena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
